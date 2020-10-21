@@ -1,0 +1,7 @@
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\obj\Debug\Zadanie.csprojAssemblyReference.cache
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\prote\Kody\C#\1 zad rekrutacyjne 1\Zadanie\obj\Debug\Zadanie.pdb
